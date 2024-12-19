@@ -445,5 +445,4 @@ tk.Button(login_frame, text="Login", command=validate_login).pack(pady=10)
 
 # Main Frame (Initially hidden)
 main_frame = tk.Frame(root)
-
 root.mainloop()
